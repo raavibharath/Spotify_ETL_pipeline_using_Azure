@@ -161,7 +161,8 @@ The exclusive use of Azure services aligns with my goal of obtaining the **Azure
 - [Azure Data Factory Documentation](https://learn.microsoft.com/en-us/azure/data-factory/)
 - [Spotipy Python Library](https://spotipy.readthedocs.io/)
 - [Azure Databricks Documentation](https://learn.microsoft.com/en-us/azure/databricks/)
+- YouTube Tutorials:
+                      Building an ETL Pipeline with Azure Data Factory
+                      Introduction to Azure Databricks for Data Engineering
 
 ---
-
-This README provides a comprehensive overview of the project, its implementation, and its significance. Let me know if you’d like to refine any section further!
